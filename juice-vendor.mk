@@ -1759,7 +1759,6 @@ PRODUCT_PACKAGES += \
     Nfc_st \
     QtiTelephonyService \
     WAPPushManager \
-    CbrsNetworkMonitor \
     SimpleDeviceConfig \
     WfdService \
     ims \
