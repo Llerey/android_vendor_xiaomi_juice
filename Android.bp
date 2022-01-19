@@ -144,18 +144,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "CbrsNetworkMonitor",
-	owner: "xiaomi",
-	apk: "proprietary/system_ext/priv-app/CbrsNetworkMonitor/CbrsNetworkMonitor.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
 	name: "SimpleDeviceConfig",
 	owner: "xiaomi",
 	apk: "proprietary/system_ext/priv-app/SimpleDeviceConfig/SimpleDeviceConfig.apk",
