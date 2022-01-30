@@ -667,9 +667,9 @@
         <use_qcds>0</use_qcds>
       </iso>
       <iso value="800">
-        <ynr_weights>0,18,16,3,2,2,1,1,1,1,1</ynr_weights>
+        <ynr_weights>0,19,16,6,2,2,1,1,1,1,1</ynr_weights>
         <cnr_weights>0,12,6,3,2,2,2,2,2,2,2</cnr_weights>
-        <y_nr_level>3</y_nr_level>
+        <y_nr_level>7</y_nr_level>
         <c_nr_level>3</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
@@ -868,7 +868,7 @@
           <gamma>100</gamma>
           <contrast>100</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>800</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>3</mergenumber>
@@ -879,7 +879,7 @@
           <use_qcds>0</use_qcds>
         </iso>
         <iso value="400">
-          <ynr_weights>0,13,12,9,6,4,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,13,6,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
           <y_nr_level>4</y_nr_level>
           <c_nr_level>2</c_nr_level>
@@ -889,7 +889,7 @@
           <gamma>100</gamma>
           <contrast>100</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1200</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>3</mergenumber>
@@ -900,9 +900,9 @@
           <use_qcds>0</use_qcds>
         </iso>
         <iso value="800">
-          <ynr_weights>0,22,16,15,14,13,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,22,8,12,8,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>15</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -910,7 +910,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1200</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>5</mergenumber>
@@ -921,9 +921,9 @@
           <use_qcds>0</use_qcds>
         </iso>
 	<iso value="1000">
-          <ynr_weights>0,22,16,14,14,13,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>11</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -944,7 +944,7 @@
 	<iso value="1200">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -965,7 +965,7 @@
         <iso value="1600">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -986,7 +986,7 @@
 	<iso value="2400">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -994,7 +994,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1000</sharpness>
           <spike_noise_level>32</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>5</mergenumber>
@@ -1007,7 +1007,7 @@
         <iso value="3200">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -1015,7 +1015,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1000</sharpness>
           <spike_noise_level>32</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>5</mergenumber>
@@ -1036,7 +1036,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>400</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>5</mergenumber>
@@ -1204,6 +1204,155 @@
         <iso value="200">
           <ynr_weights>0,16,16,16,8,4,2,2,2,2,2</ynr_weights>
           <cnr_weights>0,16,16,8,6,4,2,2,2,2,2</cnr_weights>
+          <y_nr_level>3</y_nr_level>
+          <c_nr_level>3</c_nr_level>
+          <c_nr_times>2</c_nr_times>
+          <obc>0.5</obc>
+          <gain>100</gain>
+          <gamma>100</gamma>
+          <contrast>128</contrast>
+          <saturation>1126</saturation>
+          <sharpness>800</sharpness>
+          <spike_noise_level>32</spike_noise_level>
+          <block_cnr>1</block_cnr>
+          <mergenumber>2</mergenumber>
+          <sharpness_thres>85</sharpness_thres>
+          <brightness_thres>0.85</brightness_thres>
+          <autosorting>1</autosorting>
+          <autoscaling>1</autoscaling>
+          <use_qcds>0</use_qcds>
+        </iso>
+        <iso value="400">
+          <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
+          <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
+          <y_nr_level>3</y_nr_level>
+          <c_nr_level>3</c_nr_level>
+          <c_nr_times>2</c_nr_times>
+          <obc>0.5</obc>
+          <gain>100</gain>
+          <gamma>100</gamma>
+          <contrast>0</contrast>
+          <saturation>1024</saturation>
+          <sharpness>800</sharpness>
+          <spike_noise_level>32</spike_noise_level>
+          <block_cnr>1</block_cnr>
+          <mergenumber>3</mergenumber>
+          <sharpness_thres>85</sharpness_thres>
+          <brightness_thres>0.85</brightness_thres>
+          <autosorting>1</autosorting>
+          <autoscaling>1</autoscaling>
+          <use_qcds>0</use_qcds>
+        </iso>
+        <iso value="800">
+          <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
+          <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
+          <y_nr_level>4</y_nr_level>
+          <c_nr_level>4</c_nr_level>
+          <c_nr_times>2</c_nr_times>
+          <obc>0.5</obc>
+          <gain>100</gain>
+          <gamma>100</gamma>
+          <contrast>0</contrast>
+          <saturation>1024</saturation>
+          <sharpness>600</sharpness>
+          <spike_noise_level>32</spike_noise_level>
+          <block_cnr>1</block_cnr>
+          <mergenumber>3</mergenumber>
+          <sharpness_thres>85</sharpness_thres>
+          <brightness_thres>0.85</brightness_thres>
+          <autosorting>1</autosorting>
+          <autoscaling>1</autoscaling>
+          <use_qcds>0</use_qcds>
+        </iso>
+        <iso value="1600">
+           <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
+          <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
+          <y_nr_level>5</y_nr_level>
+          <c_nr_level>5</c_nr_level>
+          <c_nr_times>2</c_nr_times>
+          <obc>0.5</obc>
+          <gain>100</gain>
+          <gamma>100</gamma>
+          <contrast>0</contrast>
+          <saturation>1024</saturation>
+          <sharpness>500</sharpness>
+          <spike_noise_level>32</spike_noise_level>
+          <block_cnr>1</block_cnr>
+          <mergenumber>3</mergenumber>
+          <sharpness_thres>85</sharpness_thres>
+          <brightness_thres>0.85</brightness_thres>
+          <autosorting>1</autosorting>
+          <autoscaling>1</autoscaling>
+          <use_qcds>0</use_qcds>
+        </iso>
+        <iso value="3200">
+           <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
+          <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
+          <y_nr_level>6</y_nr_level>
+          <c_nr_level>6</c_nr_level>
+          <c_nr_times>2</c_nr_times>
+          <obc>0.5</obc>
+          <gain>100</gain>
+          <gamma>100</gamma>
+          <contrast>0</contrast>
+          <saturation>1024</saturation>
+          <sharpness>400</sharpness>
+          <spike_noise_level>32</spike_noise_level>
+          <block_cnr>1</block_cnr>
+          <mergenumber>3</mergenumber>
+          <sharpness_thres>85</sharpness_thres>
+          <brightness_thres>0.85</brightness_thres>
+          <autosorting>1</autosorting>
+          <autoscaling>1</autoscaling>
+          <use_qcds>0</use_qcds>
+        </iso>
+        <iso value="4800">
+          <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
+          <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
+          <y_nr_level>7</y_nr_level>
+          <c_nr_level>7</c_nr_level>
+          <c_nr_times>2</c_nr_times>
+          <obc>0.5</obc>
+          <gain>100</gain>
+          <gamma>100</gamma>
+          <contrast>0</contrast>
+          <saturation>1024</saturation>
+          <sharpness>300</sharpness>
+          <spike_noise_level>32</spike_noise_level>
+          <block_cnr>1</block_cnr>
+          <mergenumber>3</mergenumber>
+          <sharpness_thres>85</sharpness_thres>
+          <brightness_thres>0.85</brightness_thres>
+          <autosorting>1</autosorting>
+          <autoscaling>1</autoscaling>
+          <use_qcds>0</use_qcds>
+        </iso>
+      </sensor>
+      <sensor name="aac_gc02m1_macro_iii">
+        <iso value="120">
+          <ynr_weights>0,16,16,8,6,4,2,2,2,2,2</ynr_weights>
+          <cnr_weights>0,16,16,8,6,4,2,2,2,2,2</cnr_weights>
+          <y_nr_level>3</y_nr_level>
+          <c_nr_level>3</c_nr_level>
+          <c_nr_times>2</c_nr_times>
+          <obc>0.5</obc>
+          <gain>100</gain>
+          <gamma>100</gamma>
+          <contrast>128</contrast>
+          <saturation>1126</saturation>
+          <sharpness>900</sharpness>
+          <spike_noise_level>32</spike_noise_level>
+          <block_cnr>0</block_cnr>
+          <mergenumber>3</mergenumber>
+          <sharpness_thres>85</sharpness_thres>
+          <brightness_thres>0.85</brightness_thres>
+          <autosorting>1</autosorting>
+          <autoscaling>1</autoscaling>
+          <use_qcds>0</use_qcds>
+        </iso>
+        <iso value="200">
+          <ynr_weights>0,16,16,16,8,4,2,2,2,2,2</ynr_weights>
+          <cnr_weights>0,16,16,8,6,4,2,2,2,2,2</cnr_weights>
           <y_nr_level>2</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>2</c_nr_times>
@@ -1307,134 +1456,6 @@
           <use_qcds>0</use_qcds>
         </iso>
         <iso value="4800">
-          <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
-          <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
-          <y_nr_level>6</y_nr_level>
-          <c_nr_level>6</c_nr_level>
-          <c_nr_times>2</c_nr_times>
-          <obc>0.5</obc>
-          <gain>100</gain>
-          <gamma>100</gamma>
-          <contrast>0</contrast>
-          <saturation>1024</saturation>
-          <sharpness>300</sharpness>
-          <spike_noise_level>32</spike_noise_level>
-          <block_cnr>1</block_cnr>
-          <mergenumber>3</mergenumber>
-          <sharpness_thres>85</sharpness_thres>
-          <brightness_thres>0.85</brightness_thres>
-          <autosorting>1</autosorting>
-          <autoscaling>1</autoscaling>
-          <use_qcds>0</use_qcds>
-        </iso>
-      </sensor>
-      <sensor name="aac_gc02m1_macro_iii">
-        <iso value="120">
-          <ynr_weights>0,15,12,8,8,4,4,2,2,2</ynr_weights>
-          <cnr_weights>0,18,16,12,12,8,8,4,4,2,2</cnr_weights>
-          <y_nr_level>3</y_nr_level>
-          <c_nr_level>3</c_nr_level>
-          <c_nr_times>1</c_nr_times>
-          <obc>0.3</obc>
-          <gain>100</gain>
-          <gamma>100</gamma>
-          <contrast>0</contrast>
-          <saturation>1024</saturation>
-          <sharpness>500</sharpness>
-          <spike_noise_level>16</spike_noise_level>
-          <block_cnr>0</block_cnr>
-          <mergenumber>3</mergenumber>
-          <sharpness_thres>85</sharpness_thres>
-          <brightness_thres>0.85</brightness_thres>
-          <autosorting>1</autosorting>
-          <autoscaling>1</autoscaling>
-          <use_qcds>0</use_qcds>
-        </iso>
-        <iso value="400">
-           <ynr_weights>0,10,8,3,1,1,1,1,1,1</ynr_weights>
-          <cnr_weights>0,12,10,3,1,1,1,1,1,1,1</cnr_weights>
-          <y_nr_level>2</y_nr_level>
-          <c_nr_level>3</c_nr_level>
-          <c_nr_times>1</c_nr_times>
-          <obc>0.3</obc>
-          <gain>100</gain>
-          <gamma>100</gamma>
-          <contrast>100</contrast>
-          <saturation>1024</saturation>
-          <sharpness>1000</sharpness>
-          <spike_noise_level>16</spike_noise_level>
-          <block_cnr>0</block_cnr>
-          <mergenumber>3</mergenumber>
-          <sharpness_thres>85</sharpness_thres>
-          <brightness_thres>0.85</brightness_thres>
-          <autosorting>1</autosorting>
-          <autoscaling>1</autoscaling>
-          <use_qcds>0</use_qcds>
-        </iso>
-        <iso value="800">
-          <ynr_weights>0,12,8,3,1,1,1,1,1,1,1</ynr_weights>
-          <cnr_weights>0,12,10,3,1,1,1,1,1,1,1</cnr_weights>
-          <y_nr_level>2</y_nr_level>
-          <c_nr_level>3</c_nr_level>
-          <c_nr_times>1</c_nr_times>
-          <obc>0.3</obc>
-          <gain>100</gain>
-          <gamma>100</gamma>
-          <contrast>100</contrast>
-          <saturation>1024</saturation>
-          <sharpness>1000</sharpness>
-          <spike_noise_level>16</spike_noise_level>
-          <block_cnr>0</block_cnr>
-          <mergenumber>3</mergenumber>
-          <sharpness_thres>85</sharpness_thres>
-          <brightness_thres>0.85</brightness_thres>
-          <autosorting>1</autosorting>
-          <autoscaling>1</autoscaling>
-          <use_qcds>0</use_qcds>
-        </iso>
-        <iso value="1200">
-           <ynr_weights>0,22,16,12,8,6,4,1,1,1,1</ynr_weights>
-          <cnr_weights>0,14,12,11,8,3,1,1,1,1,1</cnr_weights>
-          <y_nr_level>4</y_nr_level>
-          <c_nr_level>3</c_nr_level>
-          <c_nr_times>1</c_nr_times>
-          <obc>0.3</obc>
-          <gain>100</gain>
-          <gamma>100</gamma>
-          <contrast>100</contrast>
-          <saturation>1024</saturation>
-          <sharpness>900</sharpness>
-          <spike_noise_level>16</spike_noise_level>
-          <block_cnr>1</block_cnr>
-          <mergenumber>3</mergenumber>
-          <sharpness_thres>85</sharpness_thres>
-          <brightness_thres>0.85</brightness_thres>
-          <autosorting>1</autosorting>
-          <autoscaling>1</autoscaling>
-          <use_qcds>0</use_qcds>
-        </iso>
-        <iso value="1500">
-          <ynr_weights>0,22,16,12,8,6,4,1,1,1,1</ynr_weights>
-          <cnr_weights>0,14,12,11,8,3,1,1,1,1,1</cnr_weights>
-          <y_nr_level>11</y_nr_level>
-          <c_nr_level>3</c_nr_level>
-          <c_nr_times>1</c_nr_times>
-          <obc>0.3</obc>
-          <gain>100</gain>
-          <gamma>100</gamma>
-          <contrast>100</contrast>
-          <saturation>1024</saturation>
-          <sharpness>900</sharpness>
-          <spike_noise_level>16</spike_noise_level>
-          <block_cnr>1</block_cnr>
-          <mergenumber>3</mergenumber>
-          <sharpness_thres>85</sharpness_thres>
-          <brightness_thres>0.85</brightness_thres>
-          <autosorting>1</autosorting>
-          <autoscaling>1</autoscaling>
-          <use_qcds>0</use_qcds>
-        </iso>
-        <iso value="1800">
           <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
           <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
           <y_nr_level>6</y_nr_level>
@@ -1634,7 +1655,7 @@
        <iso value="200">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
-        <y_nr_level>0.5</y_nr_level>
+        <y_nr_level>1</y_nr_level>
         <c_nr_level>2</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
@@ -1642,7 +1663,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>1000</sharpness>
+        <sharpness>600</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>3</block_cnr>
         <mergenumber>3</mergenumber>
@@ -1652,11 +1673,11 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="400">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
-        <y_nr_level>0.6</y_nr_level>
+        <y_nr_level>1</y_nr_level>
         <c_nr_level>2</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
@@ -1664,7 +1685,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>1200</sharpness>
+        <sharpness>600</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>3</block_cnr>
         <mergenumber>3</mergenumber>
@@ -1676,17 +1697,17 @@
       </iso>
 
       <iso value="800">
-        <ynr_weights>0,5,5,5,4,5,3,1,0,0</ynr_weights>
+        <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
-        <y_nr_level>0.9</y_nr_level>
+        <y_nr_level>1</y_nr_level>
         <c_nr_level>2</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
           <gain>100</gain>
-          <gamma>130</gamma>
+          <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>1200</sharpness>
+        <sharpness>600</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>3</block_cnr>
         <mergenumber>3</mergenumber>
@@ -1696,19 +1717,19 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="1200">
-        <ynr_weights>0,5,5,5,4,5,3,1,0,0</ynr_weights>
+        <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
-        <y_nr_level>1.4</y_nr_level>
+        <y_nr_level>1</y_nr_level>
         <c_nr_level>2</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
           <gain>100</gain>
-          <gamma>120</gamma>
+          <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>1300</sharpness>
+        <sharpness>600</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>3</block_cnr>
         <mergenumber>3</mergenumber>
@@ -1718,19 +1739,19 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="1600">
-        <ynr_weights>0,5,5,5,4,5,3,1,0,0</ynr_weights>
+        <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
-        <y_nr_level>1.9</y_nr_level>
+        <y_nr_level>1</y_nr_level>
         <c_nr_level>2</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
           <gain>100</gain>
-          <gamma>120</gamma>
+          <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>1300</sharpness>
+        <sharpness>600</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>3</block_cnr>
         <mergenumber>3</mergenumber>
@@ -1740,19 +1761,19 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="2400">
-        <ynr_weights>0,6,6,5,4,5,3,1,0,0</ynr_weights>
+        <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
-        <y_nr_level>2.2</y_nr_level>
+        <y_nr_level>1</y_nr_level>
         <c_nr_level>2</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
           <gain>100</gain>
-          <gamma>120</gamma>
+          <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>1300</sharpness>
+        <sharpness>600</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>3</block_cnr>
         <mergenumber>3</mergenumber>
@@ -1764,17 +1785,17 @@
       </iso>
 
       <iso value="3200">
-        <ynr_weights>0,12,10,8,6,4,3,2,1,1,1</ynr_weights>
-        <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
-        <y_nr_level>2.2</y_nr_level>
+        <ynr_weights>0,20,20,20,20,20,3,1,0,0</ynr_weights>
+        <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
+        <y_nr_level>1.3</y_nr_level>
         <c_nr_level>4.3</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
           <gain>100</gain>
-          <gamma>120</gamma>
+          <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>1200</sharpness>
+        <sharpness>1000</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
         <mergenumber>5</mergenumber>
@@ -1784,16 +1805,16 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-      
+
       <iso value="4800">
-        <ynr_weights>0,18,16,14,12,4,3,2,1,1,1</ynr_weights>
+        <ynr_weights>0,14,12,10,8,4,3,2,1,1,1</ynr_weights>
         <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
-        <y_nr_level>3.6</y_nr_level>
+        <y_nr_level>3.0</y_nr_level>
         <c_nr_level>5.1</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
           <gain>100</gain>
-          <gamma>120</gamma>
+          <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
         <sharpness>800</sharpness>
@@ -1806,11 +1827,11 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-      
+
       <iso value="6400">
-        <ynr_weights>0,24,20,18,16,12,6,2,1,1,1</ynr_weights>
+        <ynr_weights>0,14,12,10,8,4,3,2,1,1,1</ynr_weights>
         <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
-        <y_nr_level>5.0</y_nr_level>
+        <y_nr_level>3.8</y_nr_level>
         <c_nr_level>6.2</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
@@ -1818,7 +1839,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>800</sharpness>
+        <sharpness>700</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
         <mergenumber>5</mergenumber>
@@ -1828,11 +1849,11 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-      
+
        <iso value="7000">
-        <ynr_weights>0,30,28,24,22,18,6,2,1,1,1</ynr_weights>
+        <ynr_weights>0,14,12,10,8,4,3,2,1,1,1</ynr_weights>
         <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
-        <y_nr_level>7.0</y_nr_level>
+        <y_nr_level>30.6</y_nr_level>
         <c_nr_level>6.8</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
@@ -1840,7 +1861,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>800</sharpness>
+        <sharpness>600</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
         <mergenumber>5</mergenumber>
@@ -2520,9 +2541,9 @@
         <use_qcds>0</use_qcds>
       </iso>
       <iso value="800">
-        <ynr_weights>0,18,16,3,2,2,1,1,1,1,1</ynr_weights>
+        <ynr_weights>0,19,16,6,2,2,1,1,1,1,1</ynr_weights>
         <cnr_weights>0,12,6,3,2,2,2,2,2,2,2</cnr_weights>
-        <y_nr_level>3</y_nr_level>
+        <y_nr_level>7</y_nr_level>
         <c_nr_level>3</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
@@ -2721,7 +2742,7 @@
           <gamma>100</gamma>
           <contrast>100</contrast>
           <saturation>1024</saturation>
-          <sharpness>1200</sharpness>
+          <sharpness>800</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>3</mergenumber>
@@ -2732,7 +2753,7 @@
           <use_qcds>0</use_qcds>
         </iso>
         <iso value="400">
-          <ynr_weights>0,13,12,10,6,4,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,13,6,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
           <y_nr_level>4</y_nr_level>
           <c_nr_level>2</c_nr_level>
@@ -2742,7 +2763,7 @@
           <gamma>100</gamma>
           <contrast>100</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1200</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>3</mergenumber>
@@ -2753,9 +2774,9 @@
           <use_qcds>0</use_qcds>
         </iso>
         <iso value="800">
-          <ynr_weights>0,22,16,15,14,14,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,22,8,12,8,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>15</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -2763,7 +2784,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1200</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>5</mergenumber>
@@ -2774,9 +2795,9 @@
           <use_qcds>0</use_qcds>
         </iso>
 	<iso value="1000">
-          <ynr_weights>0,22,16,14,14,14,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>11</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -2797,7 +2818,7 @@
 	<iso value="1200">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -2818,7 +2839,7 @@
         <iso value="1600">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -3099,8 +3120,8 @@
         <iso value="800">
           <ynr_weights>0,32,32,16,16,8,4,2,2,2,2</ynr_weights>
           <cnr_weights>0,20,20,16,8,4,2,2,2,2,2</cnr_weights>
-          <y_nr_level>3</y_nr_level>
-          <c_nr_level>3</c_nr_level>
+          <y_nr_level>4</y_nr_level>
+          <c_nr_level>4</c_nr_level>
           <c_nr_times>2</c_nr_times>
           <obc>0.5</obc>
           <gain>100</gain>
@@ -3528,7 +3549,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="400">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -3572,7 +3593,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="1200">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -3594,7 +3615,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="1600">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -3616,7 +3637,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="2400">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -3660,7 +3681,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-      
+
       <iso value="4800">
         <ynr_weights>0,14,12,10,8,4,3,2,1,1,1</ynr_weights>
         <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
@@ -3682,7 +3703,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-      
+
       <iso value="6400">
         <ynr_weights>0,14,12,10,8,4,3,2,1,1,1</ynr_weights>
         <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
@@ -3704,7 +3725,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-      
+
        <iso value="7000">
         <ynr_weights>0,14,12,10,8,4,3,2,1,1,1</ynr_weights>
         <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
@@ -4396,9 +4417,9 @@
         <use_qcds>0</use_qcds>
       </iso>
       <iso value="800">
-        <ynr_weights>0,18,16,3,2,2,1,1,1,1,1</ynr_weights>
+        <ynr_weights>0,19,16,6,2,2,1,1,1,1,1</ynr_weights>
         <cnr_weights>0,12,6,3,2,2,2,2,2,2,2</cnr_weights>
-        <y_nr_level>3</y_nr_level>
+        <y_nr_level>7</y_nr_level>
         <c_nr_level>3</c_nr_level>
         <c_nr_times>2</c_nr_times>
         <obc>0.3</obc>
@@ -4597,7 +4618,7 @@
           <gamma>100</gamma>
           <contrast>100</contrast>
           <saturation>1024</saturation>
-          <sharpness>1200</sharpness>
+          <sharpness>800</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>3</mergenumber>
@@ -4608,7 +4629,7 @@
           <use_qcds>0</use_qcds>
         </iso>
         <iso value="400">
-          <ynr_weights>0,13,12,10,6,4,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,13,6,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
           <y_nr_level>4</y_nr_level>
           <c_nr_level>2</c_nr_level>
@@ -4618,7 +4639,7 @@
           <gamma>100</gamma>
           <contrast>100</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1200</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>3</mergenumber>
@@ -4629,9 +4650,9 @@
           <use_qcds>0</use_qcds>
         </iso>
         <iso value="800">
-          <ynr_weights>0,22,16,15,14,14,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,22,8,12,8,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>15</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -4639,7 +4660,7 @@
           <gamma>100</gamma>
           <contrast>0</contrast>
           <saturation>1024</saturation>
-          <sharpness>1400</sharpness>
+          <sharpness>1200</sharpness>
           <spike_noise_level>16</spike_noise_level>
           <block_cnr>1</block_cnr>
           <mergenumber>5</mergenumber>
@@ -4650,9 +4671,9 @@
           <use_qcds>0</use_qcds>
         </iso>
 	<iso value="1000">
-          <ynr_weights>0,22,16,14,14,14,1,1,1,1,1</ynr_weights>
+          <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>11</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -4673,7 +4694,7 @@
 	<iso value="1200">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -4694,7 +4715,7 @@
         <iso value="1600">
           <ynr_weights>0,13,9,8,6,4,1,1,1,1,1</ynr_weights>
           <cnr_weights>0,8,8,6,4,2,2,2,2,2,2</cnr_weights>
-          <y_nr_level>8</y_nr_level>
+          <y_nr_level>6</y_nr_level>
           <c_nr_level>2</c_nr_level>
           <c_nr_times>1</c_nr_times>
           <obc>0.3</obc>
@@ -5404,7 +5425,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="400">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -5448,7 +5469,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="1200">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -5470,7 +5491,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="1600">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -5492,7 +5513,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-  
+
       <iso value="2400">
         <ynr_weights>0,4,4,4,4,5,3,1,0,0</ynr_weights>
         <cnr_weights>0,5,5,5,5,5,5,5,5,5,5</cnr_weights>
@@ -5536,7 +5557,7 @@
         <autoscaling>1</autoscaling>
         <use_qcds>0</use_qcds>
       </iso>
-      
+
       <iso value="4800">
         <ynr_weights>0,14,12,10,8,4,3,2,1,1,1</ynr_weights>
         <cnr_weights>0,24,18,12,10,8,6,4,2,1,1</cnr_weights>
